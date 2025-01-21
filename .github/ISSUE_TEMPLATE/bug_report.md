@@ -2,7 +2,7 @@
 name: Bug report
 about: 버그 제보를 위한 이슈를 생성하세요.
 title: "\U0001F6A8bug: "
-labels: bug, enhancement
+labels: bug
 assignees: ''
 
 ---
